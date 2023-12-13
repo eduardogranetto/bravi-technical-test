@@ -1,9 +1,8 @@
 # bravi-technical-test
+Backend test for bravi
 
 ### Dependencies
 - Java 17
-
-Backend test for bravi
 
 ### Building the app
 ```
